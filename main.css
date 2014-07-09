@@ -51,3 +51,25 @@ table {
 }
 
 /*begining of my input to style sheet*/
+/*
+  ========================================
+  Grid this selects all possible elements and switches them to the border box model to make sizing easier thanks css3
+  ========================================
+*/
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 30px;
+	padding-right: 30px;
+}
+
+
