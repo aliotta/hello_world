@@ -151,11 +151,15 @@ cite, em {
   Links
   ========================================
 */
-a:hover, a:hover h5 {
+a:hover{
 	color: #a9b2b9;
 }
 a {
 	color: #648880;
+}
+
+.sections a:hover h5 {
+	color #a9b2b9
 }
 /*
   ========================================
