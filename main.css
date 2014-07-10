@@ -77,6 +77,25 @@ h1 , h3, h4, h5, p {
 	margin-bottom: 22px;
 }
 
+/*
+  ========================================
+  Clearfix  If I create a column it will fix the floats so nothing breaks yay!
+  ========================================
+*/
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+
 /* Buttons */
 .btn {
 	border-radius: 5px;
@@ -98,3 +117,4 @@ h1 , h3, h4, h5, p {
 .hero {
 	padding: 22px 80px 66px 80px;
 }
+
