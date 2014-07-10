@@ -91,6 +91,10 @@ h1 , h3, h4, h5, p {
 	margin-bottom: 22px;
 }
 
+.product-details h1 {
+	text-align:center;
+	font:30px;
+}
 /*
   ========================================
   Clearfix  If I create a column it will fix the floats so nothing breaks yay!
