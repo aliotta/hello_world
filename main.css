@@ -145,6 +145,18 @@ cite, em {
 	font-style: italic;
 	font-weight: bold; /* this is equivalent to a numeric value of 700 */
 }
+
+/* 
+  ========================================
+  Links
+  ========================================
+*/
+a:hover {
+	color: #a9b2b9;
+}
+a {
+	color: #648880;
+}
 /*
   ========================================
   Clearfix  If I create a column it will fix the floats so nothing breaks yay!
