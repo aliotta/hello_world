@@ -78,14 +78,23 @@ h1 , h3, h4, h5, p {
 }
 
 /* Buttons */
-btn {
+.btn {
 	border-radius: 5px;
 	display: inline-block;
 	margin: 0;
 }
 
 
-btn-alt {
+.btn-alt {
 	border: 1px solid black;
 	padding: 10px 30px;
+}
+
+/*
+  ========================================
+  Home - home page styles
+  ========================================
+*/
+.hero {
+	padding 22px 80px 66px 80px
 }
