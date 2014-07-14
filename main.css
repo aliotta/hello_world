@@ -196,7 +196,7 @@ p a {
 
 /*
   ========================================
-  Rows and sections
+  Rows
   ========================================
 */
 
@@ -217,6 +217,7 @@ p a {
 
 .row, .homerow {
 	min-width: 960px;
+	background-clip: padding-box;
 }
 
 /*
