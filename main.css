@@ -203,7 +203,7 @@ p a {
 .row {
 	background-color: #fff;
 	padding: 66 0 44 0;
-	width: 960px;
+	min-width: 960px;
 	
 }
 
