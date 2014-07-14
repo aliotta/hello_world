@@ -203,15 +203,27 @@ p a {
 .row {
 	background-color: #fff;
 	padding: 66 0 44 0;
-	min-width: 960px;
 	
 }
 
 .homerow {
 	background-color: #fff;
 	padding: 66 0 44 0;
+}
+
+.row-alt{
+	padding: 44 0 22 0;
+	background-color: #cbe2c1;
+	background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
+	background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+	background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+
+.row, .row-alt, .homerow {
 	min-width: 960px;
 }
+
+
 /* 
   =========================================
   Buttons
