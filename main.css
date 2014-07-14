@@ -206,12 +206,8 @@ p a {
 	
 }
 
-.homerow {
-	background-color: #fff;
-	padding: 66 0 44 0;
-}
 
-.row-alt{
+.homerow{
 	padding: 44 0 22 0;
 	background-color: #cbe2c1;
 	background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
@@ -219,7 +215,7 @@ p a {
 	background: linear-gradient(to right, #a1d3b0, #f6f1d3);
 }
 
-.row, .row-alt, .homerow {
+.row, .homerow {
 	min-width: 960px;
 }
 
