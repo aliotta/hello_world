@@ -167,6 +167,14 @@ p a {
 .sections a:hover h3 {
 	color #a9b2b9
 }
+
+.primary-header a, .primary-footer a {
+	color: #fff;
+}
+
+.primary-header a:hover, .primary-footer a:hover {
+	color: #648880;
+}
 /*
   ========================================
   Clearfix  If I create a column it will fix the floats so nothing breaks yay!
