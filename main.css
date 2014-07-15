@@ -231,6 +231,9 @@ p a {
 	text-align: center;
 }
 
+.product-details {
+	background-image: url("background-logo.jpg");
+}
 /* 
   =========================================
   Buttons
