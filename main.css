@@ -283,8 +283,14 @@ p a {
   float: right;
   margin-bottom: 22px;
   max-width: 100%;
-  margin: -66px 0 22px 0;
+  margin: 0 0 22px 0;
   height: 200px;
+  vertical-align: top;
+}
+
+.product-types{
+	height: 250px;
+	
 }
 /* 
   ========================================
