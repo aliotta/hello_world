@@ -278,6 +278,13 @@ p a {
   font-weight: 100;
 }
 
+.homerow img{
+  border-radius: 5px;
+  float: right;
+  margin-bottom: 22px;
+  max-width: 100%
+
+}
 /* 
   ========================================
   Primary Header 
