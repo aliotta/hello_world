@@ -306,6 +306,8 @@ p a {
 	letter-spacing: .5px;
 	text-transform: uppercase;
 }
+
+
 /* 
   ========================================
   Primary Footer 
@@ -331,4 +333,14 @@ p a {
 
 .nav {
 	text-align: right;
+}
+
+.nav li {
+	display:inline-block;
+	margin: 0 15px;
+	vertical-align: top;
+}
+
+.nav li:last-child {
+	margin: 0;
 }
