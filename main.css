@@ -152,6 +152,10 @@ cite, em {
 	font-weight: bold; /* this is equivalent to a numeric value of 700 */
 }
 
+label{
+	color: black;
+	font-size: 20px;
+}
 /* 
   ========================================
   Links
@@ -273,10 +277,6 @@ p a {
   ========================================
 */
 
-form label {
-	display: inline-block;
-	text-align: right;
-}
 
 /*
   ========================================
