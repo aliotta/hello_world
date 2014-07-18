@@ -275,6 +275,7 @@ p a {
 
 form label {
 	display: inline-block;
+	text-align: right;
 }
 
 /*
