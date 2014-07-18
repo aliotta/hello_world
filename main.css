@@ -152,9 +152,9 @@ cite, em {
 	font-weight: bold; /* this is equivalent to a numeric value of 700 */
 }
 
-label{
+tr{
 	color: black;
-	font-size: 20px;
+	text-align: right;
 }
 /* 
   ========================================
