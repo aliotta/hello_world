@@ -113,7 +113,7 @@ h1 , h3, h4, h5, p {
 }
 
 h1, h2, h3, h4 {
-  color: #648880;
+  color: #629833;
 }
 
 h1 {
@@ -165,7 +165,7 @@ a:hover{
 	color: #a9b2b9;
 }
 a {
-	color: #648880;
+	color: #629833;
 	text-decoration : none;
 }
 
@@ -182,7 +182,7 @@ p a {
 }
 
 .primary-header a:hover, .primary-footer a:hover {
-	color: #648880;
+	color: #629833;
 }
 /*
   ========================================
@@ -375,7 +375,7 @@ table {
 }
 
 .primary-footer{
-	color: #648880;
+	color: #629833;
 	font-size: 14px;
 	padding-top:44px;
 	padding-bottom:44px;
