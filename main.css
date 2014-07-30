@@ -112,8 +112,8 @@ h1 , h3, h4, h5, p {
 	margin-bottom: 22px;
 }
 
-h1, h3, h4 {
-  color: #244507;
+h1, h2, h3, h4 {
+  color: #629833;
 }
 
 h1 {
@@ -121,7 +121,6 @@ h1 {
   line-height: 44px;
 }
 h2 {
-  color:#629833;	
   font-size: 24px;
   line-height: 44px;
 }
@@ -227,10 +226,12 @@ p a {
 
 .row, .homerow {
 	min-width: 960px;
+	color:#244507;
 }
 .row-alt {
 	background-color: #AA9F39;
-	width: 960;
+	width: 960px;
+	color:#244507;
 }
 /*
   =========================================
