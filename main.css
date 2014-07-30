@@ -233,6 +233,10 @@ p a {
 	width: 960px;
 	color:#244507;
 }
+
+.row h3, .homerow h3, .row-alt h3{
+	color:#244507;
+}
 /*
   =========================================
   Products
