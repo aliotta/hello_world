@@ -354,6 +354,15 @@ table {
 	text-transform: uppercase;
 }
 
+.header img {
+	border-radius: 5px;
+	float: left;
+  	margin-bottom: 22px;
+  	max-width: 100%;
+	margin: 0 22px 22px 0;
+	height: 200px;
+	vertical-align: top;
+}
 
 /* 
   ========================================
