@@ -230,11 +230,10 @@ p a {
 }
 .row-alt {
 	background-color: #AA9F39;
-	width: 960px;
 	color:#244507;
 }
 
-.row h3, .homerow h3, .row-alt h3{
+.row h3, .homerow h3, .row-alt h3, .row-alt h1{
 	color:#244507;
 }
 /*
